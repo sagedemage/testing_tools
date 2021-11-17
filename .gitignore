@@ -1,0 +1,8 @@
+__pycache__
+.coverage
+.ash_history
+.local
+.cache
+venv
+.pytest_cache
+.idea
